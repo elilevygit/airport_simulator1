@@ -1,0 +1,12 @@
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\DAL.dll.config
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\DAL.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\DAL.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\EntityFramework.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\Repository.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\Repository.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\EntityFramework.xml
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\obj\Debug\DAL.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\DAL\obj\Debug\DAL.pdb

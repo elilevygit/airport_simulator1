@@ -1,0 +1,14 @@
+C:\Users\eli\Desktop\ibg\UI\bin\Debug\UI.exe.config
+C:\Users\eli\Desktop\ibg\UI\bin\Debug\UI.exe
+C:\Users\eli\Desktop\ibg\UI\bin\Debug\UI.pdb
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\MainWindow.g.cs
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\App.g.cs
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\MainWindow.baml
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI.g.resources
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI.exe
+C:\Users\eli\Desktop\ibg\UI\obj\Debug\UI.pdb

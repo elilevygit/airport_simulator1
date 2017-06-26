@@ -1,0 +1,6 @@
+C:\Users\eli\Desktop\ibg\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\eli\Desktop\ibg\Simulator\bin\Debug\Simulator.exe
+C:\Users\eli\Desktop\ibg\Simulator\bin\Debug\Simulator.pdb
+C:\Users\eli\Desktop\ibg\Simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\Simulator\obj\Debug\Simulator.exe
+C:\Users\eli\Desktop\ibg\Simulator\obj\Debug\Simulator.pdb

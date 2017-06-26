@@ -1,0 +1,14 @@
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\AirportContracts.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\AirportContracts.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\logical layer.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\Repository.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\DAL.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\EntityFramework.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\logical layer.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\Repository.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\DAL.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\DAL.dll.config
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\bin\Debug\EntityFramework.xml
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\obj\Debug\AirportContracts.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\obj\Debug\AirportContracts.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\AirportContracts\obj\Debug\AirportContracts.pdb

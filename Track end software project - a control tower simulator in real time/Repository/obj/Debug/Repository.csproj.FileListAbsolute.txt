@@ -1,0 +1,5 @@
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Repository\bin\Debug\Repository.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Repository\bin\Debug\Repository.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Repository\obj\Debug\Repository.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Repository\obj\Debug\Repository.pdb

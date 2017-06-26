@@ -1,0 +1,22 @@
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\logical layer.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\logical layer.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\DAL.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Repository.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\EntityFramework.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\DAL.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\DAL.dll.config
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Repository.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\EntityFramework.xml
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\obj\Debug\logical layer.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\obj\Debug\logical layer.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\obj\Debug\logical layer.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\logical layer\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll

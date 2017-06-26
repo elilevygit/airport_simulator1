@@ -1,0 +1,19 @@
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\Host.exe.config
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\Host.exe
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\Host.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\AirportContracts.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\EntityFramework.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\logical layer.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\Repository.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\DAL.dll
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\AirportContracts.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\logical layer.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\Repository.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\EntityFramework.xml
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\DAL.pdb
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\bin\Debug\DAL.dll.config
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\obj\Debug\Host.exe
+C:\Users\eli\Desktop\ibg\Track end software project - a control tower simulator in real time\Host\obj\Debug\Host.pdb

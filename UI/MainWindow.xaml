@@ -1,0 +1,145 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="585" Width="888">
+    <Window.Background>
+        <ImageBrush ImageSource="pic/airport2.jpg"/>
+    </Window.Background>
+    <Window.Resources>
+        <ControlTemplate x:Key="buttonTemplate" TargetType="Button">
+            <Border CornerRadius="5"  Margin="15" Cursor="Hand">
+                <StackPanel Orientation="Horizontal" Background="Yellow">
+                    <Image Source="{DynamicResource ResourceKey=Img}" Height="100" Width="100" Margin="5"></Image>
+                    <Label Content="{TemplateBinding Content}" Background="Transparent" Margin="2"></Label>
+                </StackPanel>
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid Margin="0,0,-8,-5">
+
+
+
+        <ListView x:Name="listplanes1" Canvas.Left="857" Canvas.Top="204" Height="210" Width="276" Background="AntiqueWhite" Margin="10,10,602,339">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Airplane Name" Width="120" DisplayMemberBinding="{Binding Plane.PlaneId}"/>
+                    <GridViewColumn Header="StationName" Width="150" DisplayMemberBinding="{Binding StationName}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="DCAhistory" Canvas.Left="857" Canvas.Top="204" Height="210" Width="276" Background="AntiqueWhite" Margin="291,10,321,339">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Airplane Id" Width="120" DisplayMemberBinding="{Binding plane.PlaneId }"/>
+                    <GridViewColumn Header="StationName" Width="150" DisplayMemberBinding="{Binding station.StationName }"/>
+                    <GridViewColumn Header="StationName" Width="150" DisplayMemberBinding="{Binding DCAhistoryId }"/>
+                    <GridViewColumn Header="StationName" Width="150" DisplayMemberBinding="{Binding Departures }"/>
+                    <GridViewColumn Header="StationName" Width="150" DisplayMemberBinding="{Binding Landings }"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+        <!--<Button Content="Button" Template="{StaticResource ResourceKey=buttonTemplate}" Margin="960,138,-270,284">
+            <Button.Resources>
+                <ImageSource x:Key="Img">pic/airplane.png/</ImageSource>
+            </Button.Resources>
+        </Button>
+        <Button Content="Button1" Template="{StaticResource ResourceKey=buttonTemplate}" Margin="960,-9,-270,431">
+            <Button.Resources>
+                <ImageSource x:Key="Img">pic/airplane.png/</ImageSource>
+            </Button.Resources>
+        </Button>
+        <Button Content="Button2" Template="{StaticResource ResourceKey=buttonTemplate}" Margin="960,362,-270,60">
+            <Button.Resources>
+                <ImageSource x:Key="Img">pic/airplane.png/</ImageSource>
+            </Button.Resources>
+        </Button>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--<Grid.Background>
+            <ImageBrush ImageSource="I:\פרויקט סיום\ibg\UI\pic\WhatsApp Image 2017-06-03 at 3.05.16 PM.jpeg"/>
+        </Grid.Background>-->
+
+
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="5*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+
+        -->
+        <!--<Button  x:Name="game" Click="game_Click" Content="game" Grid.Column="4" Grid.Row="0"/>-->
+        <!--
+
+        <TextBlock Grid.Column="1" Grid.Row="1" FontSize="20" TextAlignment="Center" VerticalAlignment="Center" Text="מטוס"/>
+        <TextBlock Grid.Column="2" Grid.Row="1" FontSize="20" TextAlignment="Center" VerticalAlignment="Center" Text="תחנה"/>
+        -->
+        <!--<Button   x:Name="chat" Click="chat_Click" Content="chat wish" Grid.Column="1" Grid.Row="0"/>-->
+
+        <!--<ListBox  x:Name="listID"  Grid.Column="0" Grid.Row="2"  />-->
+        <!--
+        <ListView  x:Name="listplanes1"  Grid.Column="1" Grid.Row="2">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock Text="{Binding Planeid}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+                        <TextBlock Text=")" />
+
+                        <TextBlock Text="{Binding PlaneStationTrack.StationName}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+                        <TextBlock Text=")" />
+                    </WrapPanel>
+                </DataTemplate>
+                </ListView.ItemTemplate>
+        </ListView>
+        -->
+        <!--<ListView  x:Name="listplanes"  Grid.Column="2" Grid.Row="2"   DisplayMemberPath="UserName"/>-->
+        <!--<Grid  x:Name="sign_in" Grid.Column="3" Grid.Row="2" />-->
+
+        <!--<ListView Name="textb"  Margin="76,106,109,121" RenderTransformOrigin="0.5,0.5"/>-->
+
+        <!--<Button Name="b" Content="Button" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="b_Click"/>-->
+    </Grid>
+</Window>
